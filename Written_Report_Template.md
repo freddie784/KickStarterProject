@@ -11,7 +11,8 @@ In this analysis there were a couple of new formulas to learn along with learnin
 ### Analysis of Outcomes Based on Launch Date
 I had never done a pivot table before, so I played around with it by dragging and dropping lables until I understood the computing process.  After that I began working on the analysis without running into any issues and came out with what the deliverables asked for. **See Below** 
 
-<img src = "/Users/Freddie/Desktop/DataVis/HomeWork/ExcelProject/Resources/Theater_Outcomes_vs_Launch.png">
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/83510059/125016678-b938c900-e03f-11eb-92fb-cf1f488914f0.png)
+
 
 
 ### Analysis of Outcomes Based on Goals
@@ -21,7 +22,8 @@ In this analysis I learned about how to use *CountIf*  function. This analysis h
 
 with small changes for specifics. After finishing all the necessary counting, I calculated the percentages to create a graph to show the successfulness of campaigns depending on goal amounts. **See Below**
 
-<img src = "/Users/Freddie/Desktop/DataVis/HomeWork/ExcelProject/Resources/Outcomes_vs_Goals.png">
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/83510059/125016614-9efeeb00-e03f-11eb-92f2-8ac18714429c.png)
+
 
 
 ### Challenges and Difficulties Encountered
